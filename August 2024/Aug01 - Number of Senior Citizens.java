@@ -1,4 +1,4 @@
-problem link -> [ 
+problem link -> [ https://leetcode.com/problems/number-of-senior-citizens ] 
 class Solution {
     public int countSeniors(String[] details) {
         int count=0;
