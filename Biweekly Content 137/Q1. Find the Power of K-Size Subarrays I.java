@@ -1,3 +1,4 @@
+problem link -> [ https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i ]
 class Solution {
     public int[] resultsArray(int[] nums, int k) {
       int n = nums.length;
